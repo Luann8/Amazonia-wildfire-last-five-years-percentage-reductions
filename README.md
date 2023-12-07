@@ -1,4 +1,4 @@
-## Amazonia wildfire last five years percentage reductions
+### Amazonia wildfire last five years percentage reductions
 
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![matplotlib Version](https://img.shields.io/badge/matplotlib-3.4.3-blue.svg)](https://matplotlib.org/stable/users/installing.html)
