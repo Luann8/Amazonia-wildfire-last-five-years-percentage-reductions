@@ -5,4 +5,4 @@
 
 <img src="https://raw.githubusercontent.com/Luann8/Amazonia-wildfire-last-four-years-percentage-reductions/main/Captura%20de%20tela%202023-12-07%20152741.png">
 
-The most significant reduction occurred between 2019 and 2020, with a drop of 11.5%. From then on, the fall continued, but to a lesser extent. Between 2020 and 2021, the reduction was 6.1%, and between 2021 and 2022, 24.8%. In 2023, the reduction was 20.7% compared to the previous year.
+This Python code successfully creates a bar chart showing the number of wildfire incidents in the Amazon rainforest over the past four years, with percentage reductions highlighted on each bar.
